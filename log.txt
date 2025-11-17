@@ -1,3 +1,6 @@
+798549b Finished Task 2.4
+43c551a Finished Task 2.3
+85c0414 Finished Task 2.2
 8e60b37 Finished Task 2.1
 d20a26b Finished Task 2.1 1 - 4
 7de1716 Finished Task 1.2
